@@ -38,3 +38,6 @@ has been attempted to be submitted to an Anti-Cheat Lab in China
 
 ## 0x5 Find More Fun
 wire [343:0] join_us <= [[Discord - SpiderLab]](https://discord.gg/ajXCy3naaR)
+
+## 09/25/2025
+It seems to support when IOMMU enabled, just try urself idk
