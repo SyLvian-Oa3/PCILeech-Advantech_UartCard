@@ -41,3 +41,9 @@ wire [343:0] join_us <= [[Discord - SpiderLab]](https://discord.gg/ajXCy3naaR)
 
 ## 09/25/2025
 It seems to support when IOMMU enabled, just try urself idk
+
+## Driver
+[>Click<](https://github.com/SyLvian-Oa3/PCILeech-Advantech_UartCard/issues/1)
+
+## Status
+EAC: Blocked - Test from [@dactDMA](https://github.com/dactDMA)
